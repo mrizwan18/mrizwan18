@@ -6,12 +6,13 @@
 <img src="/assets/rickenberg.jpg" width="100%" title="I am the danger Rick" alt="I am the danger Rick">
 </p>
 <div>
+<span>Connect with me:</span>
 <p>
   <a href="mailto:rizwanshafique07@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/rizwan-shafique07"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/rizwan-shafique07" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
   </p>
 </div>
-<h3>I'm currently working on&nbsp;&nbsp;&nbsp;<img src="assets/logo-250.png"/>&nbsp;&nbsp;&nbsp;with the following</h3>
+<h3>I'm currently working on&nbsp;&nbsp;&nbsp;<img src="assets/logo-160-w.png"/>&nbsp;&nbsp;&nbsp;with the following</h3>
 
 <br />
 
@@ -19,62 +20,61 @@
   <tr>
     <td align="center">
       <a href="https://reactjs.org">
-        <img src="assets/react.svg"/><br>React
+        <img src="assets/react.svg" height="60px" width="60px"/><br>React
       </a>
     </td>
     <td align="center">
       <a href="https://tailwindcss.com/">
-        <img src="assets/tailwindcss-icon.svg"/><br>Tailwind
+        <img src="assets/tailwindcss-icon.svg" height="60px" width="60px"/><br>Tailwind
       </a>
     </td>
     <td align="center">
       <a href="https://redux.js.org/">
-        <img src="assets/redux.svg"/><br>Redux
+        <img src="assets/redux.svg" height="60px" width="60px"/><br>Redux
       </a>
     </td>
     <td align="center">
       <a href="https://www.keycloak.org/">
-        <img src="assets/keycloak-svgrepo-com.svg"/><br>Keycloak
+        <img src="assets/keycloak-svgrepo-com.svg" height="60px" width="60px"/><br>Keycloak
       </a>
     </td>
-     <td align="center">
+  </tr>
+  <tr>
+  <td align="center">
       <a href="https://reactrouter.com/">
-        <img src="assets/react-router-mark-color-inverted.svg"/><br>React-Router
+        <img src="assets/react-router-mark-color-inverted.svg" height="60px" width="60px"/><br>React-Router
       </a>
     </td>
     <td align="center">
       <a href="https://developers.google.com/maps">
-        <img src="assets/google_maps-tile.svg"/><br>Google Maps
+        <img src="assets/google_maps-tile.svg" height="60px" width="60px"/><br>Google Maps
       </a>
     </td>
-
-  </tr>
-  <tr>
    <td align="center">
       <a href="https://spring.io/">
-        <img src="assets/springio-icon.svg"/><br>Springboot
+        <img src="assets/springio-icon.svg" height="60px" width="60px"/><br>Springboot
       </a>
     </td>
     <td align="center">
       <a href="https://www.mysql.com/">
-        <img src="assets/mysql-icon.svg"/><br>MySQL
+        <img src="assets/mysql-icon.svg" height="60px" width="60px"/><br>MySQL
       </a>
     </td>
   </tr>
   <tr>
    <td align="center">
       <a href="https://redis.io/">
-        <img src="assets/redis-icon.svg"/><br>Redis
+        <img src="assets/redis-icon.svg" height="60px" width="60px"/><br>Redis
       </a>
     </td>
     <td align="center">
       <a href="https://kubernetes.io/">
-        <img src="assets/kubernetes-icon.svg"/><br>Kubernetes
+        <img src="assets/kubernetes-icon.svg" height="60px" width="60px"/><br>Kubernetes
       </a>
     </td>
     <td align="center">
       <a href="https://istio.io/">
-        <img src="assets/istioio-icon.svg"/><br>Istio
+        <img src="assets/istioio-icon.svg" height="60px" width="60px"/><br>Istio
       </a>
     </td>
   </tr>
