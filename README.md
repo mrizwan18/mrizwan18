@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/rizwan-shafique07" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
   </p>
 </div>
-<h3>I'm currently working on&nbsp;&nbsp;&nbsp;<img src="assets/logo-160-w.png"/>&nbsp;&nbsp;&nbsp;</h3>
+<h3>I'm currently working on&nbsp;&nbsp;&nbsp;<img src="assets/carpe-logo.png"/>&nbsp;&nbsp;&nbsp;</h3>
 
 <br />
 <p>You can opt for waitlist here: <a href="https://ridecarpe.com" > Carpe - Pakistan's Premium Carpooling Service</a>
