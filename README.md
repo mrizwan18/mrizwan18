@@ -12,74 +12,11 @@
   <a href="https://www.linkedin.com/in/rizwan-shafique07" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
   </p>
 </div>
-<h3>I'm currently working on&nbsp;&nbsp;&nbsp;<img src="assets/logo-160-w.png"/>&nbsp;&nbsp;&nbsp;with the following</h3>
+<h3>I'm currently working on&nbsp;&nbsp;&nbsp;<img src="assets/logo-160-w.png"/>&nbsp;&nbsp;&nbsp;</h3>
 
 <br />
-
-<table cellspacing="5" cellpadding="5" width="100%">
-  <tr>
-    <td align="center">
-      <a href="https://reactjs.org">
-        <img src="assets/react.svg" height="60px" width="60px"/><br>React
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://tailwindcss.com/">
-        <img src="assets/tailwindcss-icon.svg" height="60px" width="60px"/><br>Tailwind
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://redux.js.org/">
-        <img src="assets/redux.svg" height="60px" width="60px"/><br>Redux
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.keycloak.org/">
-        <img src="assets/keycloak-svgrepo-com.svg" height="60px" width="60px"/><br>Keycloak
-      </a>
-    </td>
-  </tr>
-  <tr>
-  <td align="center">
-      <a href="https://reactrouter.com/">
-        <img src="assets/react-router-mark-color-inverted.svg" height="60px" width="60px"/><br>React-Router
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developers.google.com/maps">
-        <img src="assets/google_maps-tile.svg" height="60px" width="60px"/><br>Google Maps
-      </a>
-    </td>
-   <td align="center">
-      <a href="https://spring.io/">
-        <img src="assets/springio-icon.svg" height="60px" width="60px"/><br>Springboot
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mysql.com/">
-        <img src="assets/mysql-icon.svg" height="60px" width="60px"/><br>MySQL
-      </a>
-    </td>
-  </tr>
-  <tr>
-   <td align="center">
-      <a href="https://redis.io/">
-        <img src="assets/redis-icon.svg" height="60px" width="60px"/><br>Redis
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://kubernetes.io/">
-        <img src="assets/kubernetes-icon.svg" height="60px" width="60px"/><br>Kubernetes
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://istio.io/">
-        <img src="assets/istioio-icon.svg" height="60px" width="60px"/><br>Istio
-      </a>
-    </td>
-  </tr>
-</table>
-
+<p>You can opt for waitlist here: <a href="https://ridecarpe.com" > Carpe - Pakistan's Premium Carpooling Service</a>
+</p>
 <br>
 ### ⚙️ &nbsp;GitHub Analytics
 
